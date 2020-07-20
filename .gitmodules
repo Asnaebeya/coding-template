@@ -1,0 +1,3 @@
+[submodule "devcamper-api"]
+	path = devcamper-api
+	url = https://github.com/bradtraversy/devcamper-api.git
