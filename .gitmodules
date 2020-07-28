@@ -1,3 +1,12 @@
 [submodule "devcamper-api"]
 	path = devcamper-api
 	url = https://github.com/bradtraversy/devcamper-api.git
+[submodule "react-front-to-back/github-finder"]
+	path = react-front-to-back/github-finder
+	url = https://github.com/bradtraversy/github-finder.git
+[submodule "react-front-to-back/contact-keeper"]
+	path = react-front-to-back/contact-keeper
+	url = https://github.com/bradtraversy/contact-keeper.git
+[submodule "react-front-to-back/it-logger"]
+	path = react-front-to-back/it-logger
+	url = https://github.com/bradtraversy/it-logger.git
